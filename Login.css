@@ -1,0 +1,42 @@
+body{
+    
+    background-color: black;
+}
+
+.container{
+    
+
+    color:darkgrey;
+    font-family: sans-serif;
+    font-weight: 100;
+   
+}
+
+
+
+.row{
+    
+    padding: 11px;
+}
+
+.temp1{
+    
+    font-weight: 100;
+    font-size: 12px;
+    color: black;
+    font-weight: 600;
+}
+
+
+
+a:hover{
+    
+    text-decoration: none;
+    
+}
+
+.fg{
+    
+    padding-top: .5em;
+}
+
